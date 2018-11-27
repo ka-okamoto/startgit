@@ -1,0 +1,2 @@
+print('hogehoge')
+print('hoge!!')
